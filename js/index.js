@@ -134,7 +134,7 @@ var GameBoard = function (_React$Component4) {
       correct: 0,
       incorrect: 0,
       activeGame: true,
-    questionsAnswer: [{ // 1
+    questionsAnswer: [{ 
         question: 'Where is dogs the most populer?',
         options: ["China", "USA", "Brazil"],
         answer: "USA"
@@ -142,11 +142,11 @@ var GameBoard = function (_React$Component4) {
         question: 'What is the most populer type of dog?',
         options: ['Labador Retriever', 'Yorkshire Terrier', 'German Sheperd'],
         answer: 'Labador retriever'
-      }, { // 3
+      }, { 
         question: 'Whats the fastest dog breed?',
         options: ['Labador Retriever', 'Grey Hound', 'German Sheperd'],
         answer: 'Grey Hound'
-      }, { // 4
+      }, { 
         question: 'How many dogs are there in there in the worid?',
         options: ['400 million +', '200+', '200 million +'],
         answer: '400 million +'
