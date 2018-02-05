@@ -134,31 +134,22 @@ var GameBoard = function (_React$Component4) {
       correct: 0,
       incorrect: 0,
       activeGame: true,
-      questionsAnswer: [{ // 1
-        question: 'Who is Darth Vader?',
-        options: ["Jedi", "Sith", "Rebel", "Emperor"],
-        answer: "Sith"
-      }, { // 2
-        question: 'Who is Luke Skywalker’s dad?',
-        options: ['Boba Fett', 'Jango Fett', 'Anakin Skywalker', 'Emperor',5],
-        answer: 'Anakin Skywalker'
+     / 1
+        question: 'Where is dogs the most populer?',
+        options: ["China", "USA", "Brazil"],
+        answer: "USA"
+            }, { 
+        question: 'What is the most populer type of dog?',
+        options: ['Labador Retriever', 'Yorkshire Terrier', 'German Sheperd'],
+        answer: 'Labador retriever'
       }, { // 3
-        question: 'Who kills Jabba The Hutt?',
-        options: ['Luke Skywalker', 'Princess Leia', 'Han Solo', 'Darth Vader'],
-        answer: 'Princess Leia'
+        question: 'Whats the fastest dog breed?',
+        options: ['Labador Retriever', 'Grey Hound', 'German Sheperd'],
+        answer: 'Grey Hound'
       }, { // 4
-        question: 'What planet do Wookiees come from?',
-        options: ['Tatooine', 'Kashyyk', 'Naboo', 'Endor'],
-        answer: 'Kashyyk'
-      }, { // 5
-        question: 'Darth Vader cut off hand of:',
-        options: ['Count Dooku', 'Mace Windu', 'Luke Skywalker', 'All of them'],
-        answer: 'All of them'
-      }, { // 6
-        question: 'Who is the first person to say “May the Force be with you” in A New Hope',
-        options: ['Master Yoda', 'Luke Skywalker', 'Princess Leia', 'General Dodonna'],
-        answer: 'General Dodonna'
-      }]
+        question: 'How many dogs are there in there in the worid?',
+        options: ['400 million +', '200+', '200 million +'],
+        answer: '400 million +'}]
     };
     return _this4;
   }
