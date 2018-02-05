@@ -141,7 +141,7 @@ var GameBoard = function (_React$Component4) {
             }, { 
         question: 'What is the most populer type of dog?',
         options: ['Labador Retriever', 'Yorkshire Terrier', 'German Sheperd'],
-        answer: 'Labador retriever'
+        answer: 'Labador Retriever'
       }, { 
         question: 'Whats the fastest dog breed?',
         options: ['Labador Retriever', 'Grey Hound', 'German Sheperd'],
